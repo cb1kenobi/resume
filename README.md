@@ -14,9 +14,9 @@ own servers in the cloud.
 
 ## Technical Proficiencies
 
-* Languages
-	- JavaScript, PHP, C++, C#, Java, SQL
-	- Regular Expressions
+* Programming Languages
+	- Primary: JavaScript, PHP, C, C++, C#, Java, SQL, Regular Expressions
+	- Secondary: Python, ColdFusion
 
 * JavaScript
 	- ECMAScript 5 (some ES6)

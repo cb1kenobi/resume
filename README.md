@@ -38,7 +38,7 @@ own servers.
 	- Built the Browser Feature Detector: [http://detect.ambientreality.com](http://detect.ambientreality.com)
 
 * Web Development
-	- HTML 5: semantic markup, video, web storage, geolocation, offline, web workers, web fonts, form elements, history
+	- HTML 5: semantic markup, video, WebSockets, web storage, geolocation, offline, web workers, web fonts, form elements, history
 	- CSS 3: transitions, transforms, media queries, web fonts, retina support, pseudo-selectors, sprites
 	- Mobile Web: Mobile Safari on iPhone/iPad, Chrome, IE, Firefox OS, BlackBerry 10/Playbook
 	- Responsive web design: media queries, resizable images, viewports

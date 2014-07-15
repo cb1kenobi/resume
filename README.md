@@ -1,7 +1,8 @@
 # Chris Barber
 
 - E-mail: chris (at) ambientreality (dot) com
-- Code: [https://github.com/cb1kenobi](https://github.com/cb1kenobi)
+- GitHub: [https://github.com/cb1kenobi](https://github.com/cb1kenobi)
+- LinkedIn: [https://www.linkedin.com/in/cb1kenobi](https://www.linkedin.com/in/cb1kenobi)
 - Twitter: [https://twitter.com/cb1kenobi](https://twitter.com/cb1kenobi)
 - Location: Santa Clara, CA
 
@@ -10,37 +11,49 @@
 I'm a JavaScript guru and seasoned software engineer with a passion for
 coding, a die hard work ethic, and a strong background in web technologies.
 I contribute to open source projects, build my own computers, and admin my
-own servers in the cloud.
+own servers.
 
 ## Technical Proficiencies
 
 * Programming Languages
-	- Primary: JavaScript, PHP, C, C++, C#, Java, SQL, Regular Expressions
+	- Primary: JavaScript, C/C++, PHP, C#, Java, SQL, Regular Expressions
 	- Secondary: Python, ColdFusion
 
 * JavaScript
 	- ECMAScript 5 (some ES6)
 	- Node.js
-		- C++ add-ons
-	- Libraries/Modules
-		- Express.js, Sequelize, hogan.js, Mocha, should.js, mariasql
-		- Dojo Toolkit, Backbone.js, Bootstrap, Require.js, jQuery
-	- Asynchronous patterns (async, promises/deferreds)
+		- Web: Express.js 4, hogan.js, vhost, spdy, cluster
+		- Testing: Mocha, should.js
+		- Database: Sequelize, mariasql, redis
+		- Tooling: Gulp
+		- C++ add-ons: v0.8-0.11
+	- Web Browser
+		- Dojo Toolkit, Bootstrap, Require.js, Backbone.js, Underscore, jQuery
+		- Experimented: Ember.js, Polymer, React
+	- Lead architect of the Titanium Mobile Web platform
+		- Custom AMD require() implementation
+		- Object-oriented JavaScript design using custom declare() mechanism
+		- Uses several HTML5 JS-based APIs
+	- Asynchronous patterns: async library, promises/deferreds
+	- Built the Browser Feature Detector: [http://detect.ambientreality.com](http://detect.ambientreality.com)
 
 * Web Development
-	- HTML 5 (semantic markup, video, web storage, geolocation, offline, web workers, form elements, history)
-	- CSS 3 (transitions, transforms, media queries, web fonts, retina support, pseudo-selectors)
-	- Mobile Web
-	- Responsive Web Design
-	- Debugging and performance analysis
-	- Polyfills
-	- Wordpress
-	- Adobe Photoshop
+	- HTML 5: semantic markup, video, web storage, geolocation, offline, web workers, web fonts, form elements, history
+	- CSS 3: transitions, transforms, media queries, web fonts, retina support, pseudo-selectors, sprites
+	- Mobile Web: Mobile Safari on iPhone/iPad, Chrome, IE, Firefox OS, BlackBerry 10/Playbook
+	- Responsive web design: media queries, resizable images, viewports
+	- Debugging and performance analysis using Chrome Dev Tools, Firefox Dev Tools, Firebug, Wireshark
+	- Browser quirks and polyfills: IE6+, Android 2 web browser, Mobile Safari
+	- Wordpress: custom sites, themes, navigation, admin pages
+	- Adobe Photoshop: 3.0-CS6
 
 * Databases
 	- MariaDB, MySQL
 	- Microsoft SQL Server
 	- MongoDB, Riak, Cassandra
+
+* Operating Systems
+	- Mac OS X <=10.9, Linux (Ubuntu), Windows <=8.1
 
 * Servers/Networking
 	- nginx, Apache HTTP Server
@@ -49,7 +62,7 @@ own servers in the cloud.
 	- Firewalls, routers, load balancers, DNS, VLANs, Wireless
 
 * Version Control
-	- git, Subversion, Bazaar
+	- git, Subversion
 
 * Disciplines
 	- Object-oriented design, design patterns
@@ -70,14 +83,17 @@ own servers in the cloud.
 
 June 2010 - Present
 
+* Built the Titanium Mobile Web platform using the modern HTML5 and CSS3 APIs
 * Developed the Titanium Mobile Command Line Interface (CLI) using Node.js
-* Rewrote the build systems for Titanium Mobile for Android, iOS, and Mobile Web apps
-* Built the Titanium Mobile Web platform using the latest HTML5 and CSS3 APIs
+	- Included a plugin system allowing third party commands and hooks
+* Converted legacy Python scripts for building Titanium Mobile Android, iOS, and Mobile Web apps to Node.js
 * Manage several key systems including the Jenkins CI server and Titanium module verification
-* Wrote the developer Q&A website using PHP (Kohana) and Dojo Toolkit: http://developer.appcelerator.com/questions
+* Wrote the Developer Center Q&A website using PHP (Kohana) and Dojo Toolkit: [http://developer.appcelerator.com/questions](http://developer.appcelerator.com/questions)
 * Developed an internal corporate administration system
-* Coded the old marketing website along with a bunch of other now defunct sites
+* Coded early marketing website and several other now defunct sites
 * Presented multiple technical talks to engineering team about Node.js, JavaScript, & Regular Expressions
+* Interviewed potential software engineering candidates
+* Used Jira and Confluence for issue tracking and project management
 
 ### CEO, Technology Consultant
 
@@ -86,17 +102,19 @@ June 2010 - Present
 October 2004 - December 2011
 
 * Helped create custom solutions for over a dozen clients
+	- Portfolio: [http://www.cb1inc.com/portfolio/](http://www.cb1inc.com/portfolio/)
 * Managed multiple subcontractors across several projects
 * Created several websites using WordPress, PHP, ASP, ColdFusion
 * Developed marketing websites with custom content management systems
 * Contributed to open source projects including the Dojo JavaScript Toolkit
 * Created single page applications using Dojo for authoring website content
 * Deployed websites on virtual private servers in the cloud
-* Built automated enterprise data backup solution
-* Developed a web-based accounting application using ColdFusion MX and SQL Server
+* Built automated data backup solution using duct tape and bubble gum
+* Developed a web-based accounting application using ColdFusion MX and Microsoft SQL Server
 * Developed secure solutions that involved Java web services, SSL certificates and single sign-on
 * Maintained software updates and general maintenance of servers
-* Configured firewalls with VPN access for remote clients
+* Configured Cisco and Fortigate firewalls with VPN access for remote clients
+* Wrote several technical blog posts: [http://www.cb1inc.com/blog/](http://www.cb1inc.com/blog/)
 
 ### Senior Software Engineer
 
@@ -104,11 +122,12 @@ October 2004 - December 2011
 
 October 2004 - October 2006
 
+* Built the world's best real estate search engine using Dojo Toolkit, Google Maps, and ASP.NET
 * Architected a scalable webmail application using .NET/C# and SQL Server 2005
-* Enhanced static web-based street maps with Javascript and DHTML
+* Added markers and balloons to static web-based ESRI-powered street maps using Javascript and DHTML
 * Led a team of engineers to design and develop a scalable, customizable web application platform for a MLS listing search engine
 * Wrote an internal company message board system to organize projects and related files
-* Developed SQL stored procedures and user-defined functions to perform complex queries
+* Developed SQL stored procedures and user-defined functions to perform complex remote queries
 * Mentored a group of junior-level engineers
 * Built a relational, context-sensitive help system with a custom index mechanism and keyword highlighting
 
@@ -118,13 +137,13 @@ October 2004 - October 2006
 
 May 2000 - October 2004
 
-* Developed web applications using ColdFusion MX, Javascript, Java, JSP and PHP
-* Worked individually and in a team environment to complete large scale projects
-* Wrote mission critical applications and objects using C++
+* Key developer of the benefitsCONNECT online benefit administration and employee management system
+* Developed several customer web applications using ColdFusion MX, Javascript, Java, JSP, and PHP
+* Wrote mission critical applications and ColdFusion COM Objects using C++
 * Created Java-based solutions for on-the-fly image resizing, PDF creation, HTTP request tunneling and secure remote file storage operations
-* Used Javascript for form validation and rich DHTML user interfaces
+* Used JavaScript for form validation and rich DHTML user interfaces
 * Maintained more than 20 servers running IIS, ColdFusion, JRun, Tomcat and SQL Server
-* Designed and deployed an enterprise network connecting two server environments, intranet and IP phone system
+* Designed and deployed an enterprise network connecting two server environments, intranet, and Cisco IP phone system
 * Responsible for designing and supporting over 10 client projects
 * Accountable for time management and project time estimates
 * Designed user interface compositions and graphics using Adobe Photoshop
@@ -156,7 +175,7 @@ June 1995 – May 2000
 
 ## Open Source Projects
 
-### Appcelerator Titanium Mobile
+### Titanium Mobile
 
 * [http://github.com/appcelerator/titanium_mobile](http://github.com/appcelerator/titanium_mobile)
 * [http://github.com/appcelerator/titanium](http://github.com/appcelerator/titanium)
@@ -164,7 +183,7 @@ June 1995 – May 2000
 * Worked on the Mobile Web platform
 * Rewrote the build scripts for each platform
 
-### Dojo Javascript Toolkit
+### Dojo Toolkit
 
 * [http://dojotoolkit.org/](http://dojotoolkit.org/)
 * Became a committer October 2008
@@ -272,9 +291,9 @@ June 1995 – May 2000
 ### Things I Like
 
 * All things JavaScript & Node.js
-* Databases
-* Lego, specifically Technic
+* Lego Technic
 * Fallout, Skyrim
+* Databases
 * AutoCAD, Maya, 3D
 * Heavy metal
 * Frappacinos
@@ -284,8 +303,9 @@ June 1995 – May 2000
 
 * Technical Debt
 * Micromanagement
-* Internet Explorer <= 9
+* Internet Explorer 9 and older
 * jQuery
+* Helvetica
 
 ## References
 

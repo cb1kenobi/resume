@@ -3,15 +3,16 @@
 - E-mail: chris (at) ambientreality (dot) com
 - GitHub: [https://github.com/cb1kenobi](https://github.com/cb1kenobi)
 - LinkedIn: [https://www.linkedin.com/in/cb1kenobi](https://www.linkedin.com/in/cb1kenobi)
+- Blog: [http://www.ambientreality.com/](http://www.ambientreality.com/)
 - Twitter: [https://twitter.com/cb1kenobi](https://twitter.com/cb1kenobi)
 - Location: Santa Clara, CA
 
 ## Introduction
 
-I'm a JavaScript guru and seasoned software engineer with a passion for
-coding, a die hard work ethic, and a strong background in web technologies.
-I contribute to open source projects, build my own computers, and admin my
-own servers.
+I'm a JavaScript guru and seasoned software engineer with a deep passion for
+programming. I have a strong background in web technologies, both client and
+server-side. I contribute to open source projects, build my own computers,
+and admin my own servers.
 
 ## Technical Proficiencies
 
@@ -25,7 +26,7 @@ own servers.
 		- Web: Express.js 4, hogan.js, vhost, spdy, cluster
 		- Testing: Mocha, should.js
 		- Database: Sequelize, mariasql, redis
-		- Tooling: Gulp
+		- Tooling: Gulp, commander, optimist
 		- C++ add-ons: v0.8-0.11
 	- Web Browser
 		- Dojo Toolkit, Bootstrap, Require.js, Backbone.js, Underscore, jQuery
@@ -39,7 +40,7 @@ own servers.
 
 * Web Development
 	- HTML 5: semantic markup, video, WebSockets, web storage, geolocation, offline, web workers, web fonts, form elements, history
-	- CSS 3: transitions, transforms, media queries, web fonts, retina support, pseudo-selectors, sprites
+	- CSS 3: transitions, transforms, media queries, web fonts, retina support, pseudo-selectors, sprites, less, sass
 	- Mobile Web: Mobile Safari on iPhone/iPad, Chrome, IE, Firefox OS, BlackBerry 10/Playbook
 	- Responsive web design: media queries, resizable images, viewports
 	- Debugging and performance analysis using Chrome Dev Tools, Firefox Dev Tools, Firebug, Wireshark
@@ -83,10 +84,11 @@ own servers.
 
 June 2010 - Present
 
-* Built the Titanium Mobile Web platform using the modern HTML5 and CSS3 APIs
+* Key architect of the Titanium Mobile Web platform using the modern HTML5 and CSS3 APIs
 * Developed the Titanium Mobile Command Line Interface (CLI) using Node.js
 	- Included a plugin system allowing third party commands and hooks
-* Converted legacy Python scripts for building Titanium Mobile Android, iOS, and Mobile Web apps to Node.js
+* Created the Titanium Windows Hybrid platform that wraps Titanium Mobile Web apps in a native C# shell and exposes native reflection APIs
+* Redesigned Titanium Mobile Android, iOS, and Mobile Web build scripts to incorporate validation and parallelization
 * Manage several key systems including the Jenkins CI server and Titanium module verification
 * Wrote the Developer Center Q&A website using PHP (Kohana) and Dojo Toolkit: [http://developer.appcelerator.com/questions](http://developer.appcelerator.com/questions)
 * Developed an internal corporate administration system

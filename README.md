@@ -28,9 +28,8 @@ and admin my own servers.
 		- Database: Sequelize, mariasql, redis
 		- Tooling: Gulp, commander, optimist
 		- C++ add-ons: v0.8-0.11
-	- Web Browser
-		- Dojo Toolkit, Bootstrap, Require.js, Backbone.js, Underscore, jQuery
-		- Experimented: Ember.js, Polymer, React
+	- Browser-side
+		- Dojo Toolkit, Bootstrap, Require.js, Backbone.js, Underscore, jQuery, Polymer, React
 	- Lead architect of the Titanium Mobile Web platform
 		- Custom AMD require() implementation
 		- Object-oriented JavaScript design using custom declare() mechanism
@@ -86,7 +85,6 @@ June 2010 - Present
 
 * Key architect of the Titanium Mobile Web platform using the modern HTML5 and CSS3 APIs
 * Developed the Titanium Mobile Command Line Interface (CLI) using Node.js
-	- Included a plugin system allowing third party commands and hooks
 * Created the Titanium Windows Hybrid platform that wraps Titanium Mobile Web apps in a native C# shell and exposes native reflection APIs
 * Redesigned Titanium Mobile Android, iOS, and Mobile Web build scripts to incorporate validation and parallelization
 * Manage several key systems including the Jenkins CI server and Titanium module verification

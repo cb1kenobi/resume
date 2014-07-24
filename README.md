@@ -93,7 +93,7 @@ June 2010 - Present
 * Coded early marketing website and several other now defunct sites
 * Presented multiple technical talks to engineering team about Node.js, JavaScript, & Regular Expressions
 * Interviewed potential software engineering candidates
-* Used Jira and Confluence for issue tracking and project management
+* Used Jira, Confluence, and GitHub for issue tracking and project management
 
 ### CEO, Technology Consultant
 

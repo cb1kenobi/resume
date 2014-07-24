@@ -101,9 +101,9 @@ June 2010 - Present
 
 October 2004 - December 2011
 
-* Helped create custom solutions for over a dozen clients
-	- Portfolio: [http://www.cb1inc.com/portfolio/](http://www.cb1inc.com/portfolio/)
+* Built custom solutions for 22 businesses nationwide
 * Managed multiple subcontractors across several projects
+* Responsible for all sales, billing, accounting, project management, designing, developing, and testing
 * Created several websites using WordPress, PHP, ASP, ColdFusion
 * Developed marketing websites with custom content management systems
 * Contributed to open source projects including the Dojo JavaScript Toolkit
@@ -114,7 +114,8 @@ October 2004 - December 2011
 * Developed secure solutions that involved Java web services, SSL certificates and single sign-on
 * Maintained software updates and general maintenance of servers
 * Configured Cisco and Fortigate firewalls with VPN access for remote clients
-* Wrote several technical blog posts: [http://www.cb1inc.com/blog/](http://www.cb1inc.com/blog/)
+* Client portfolio: [http://www.cb1inc.com/portfolio/](http://www.cb1inc.com/portfolio/)
+* Authored several technical blog posts: [http://www.cb1inc.com/blog/](http://www.cb1inc.com/blog/)
 
 ### Senior Software Engineer
 

@@ -21,20 +21,20 @@ and admin my own servers.
 	- Secondary: Python, ColdFusion
 
 * JavaScript
-	- ECMAScript 5 (some ES6)
-	- Node.js
+	- ECMAScript 5, 6, and 7
+	- Node.js/io.js
 		- Web: Express.js 4, hogan.js, vhost, spdy, cluster
 		- Testing: Mocha, should.js
 		- Database: Sequelize, mariasql, redis
-		- Tooling: Gulp, commander, optimist
-		- C++ add-ons: v0.8-0.11
+		- Tooling: Gulp, Grunt, Babel, commander, optimist
+		- C++ add-ons
 	- Browser-side
-		- Dojo Toolkit, Bootstrap, Require.js, Backbone.js, Underscore, jQuery, Polymer, React
+		- Dojo Toolkit, Bootstrap, Require.js, Backbone.js, Underscore, jQuery, Polymer, React, Angular
 	- Lead architect of the Titanium Mobile Web platform
 		- Custom AMD require() implementation
 		- Object-oriented JavaScript design using custom declare() mechanism
 		- Uses several HTML5 JS-based APIs
-	- Asynchronous patterns: async library, promises/deferreds
+	- Asynchronous patterns: async library, promises/deferreds, generators
 	- Built the Browser Feature Detector: [http://detect.ambientreality.com](http://detect.ambientreality.com)
 
 * Web Development
@@ -53,10 +53,11 @@ and admin my own servers.
 	- MongoDB, Riak, Cassandra
 
 * Operating Systems
-	- Mac OS X <=10.9, Linux (Ubuntu), Windows <=8.1
+	- Mac OS X, Linux (Ubuntu), Windows
 
 * Servers/Networking
 	- nginx, Apache HTTP Server
+	- Docker
 	- Memcache, Redis
 	- Postfix, Amavis, SpamAssassin
 	- Firewalls, routers, load balancers, DNS, VLANs, Wireless
@@ -83,8 +84,8 @@ and admin my own servers.
 
 June 2010 - Present
 
-* Key architect of the Titanium Mobile Web platform using the modern HTML5 and CSS3 APIs
 * Developed the Titanium Mobile Command Line Interface (CLI) using Node.js
+* Key architect of the Titanium Mobile Web platform using the modern HTML5 and CSS3 APIs
 * Created the Titanium Windows Hybrid platform that wraps Titanium Mobile Web apps in a native C# shell and exposes native reflection APIs
 * Redesigned Titanium Mobile Android, iOS, and Mobile Web build scripts to incorporate validation and parallelization
 * Manage several key systems including the Jenkins CI server and Titanium module verification
@@ -226,6 +227,11 @@ June 1995 – May 2000
 * Abandoned due to lack of business requirement for Cassandra
 
 ## Presentations
+
+### NodeMN
+
+* [Node.js/io.js Native C++ Addons](http://www.slideshare.net/cb1kenobi/nodejsiojs-native-c-addons)
+  (September 2015)
 
 ### TiAppCamp 2
 

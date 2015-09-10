@@ -5,7 +5,7 @@
 - LinkedIn: [https://www.linkedin.com/in/cb1kenobi](https://www.linkedin.com/in/cb1kenobi)
 - Blog: [http://www.ambientreality.com/](http://www.ambientreality.com/)
 - Twitter: [https://twitter.com/cb1kenobi](https://twitter.com/cb1kenobi)
-- Location: Santa Clara, CA
+- Location: Minneapolis, MN
 
 ## Introduction
 

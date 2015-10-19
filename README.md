@@ -230,6 +230,8 @@ June 1995 – May 2000
 
 ### NodeMN
 
+* [gulp-babel-istanbul](https://www.npmjs.com/package/gulp-babel-istanbul)
+  (October 2015)
 * [Node.js/io.js Native C++ Addons](http://www.slideshare.net/cb1kenobi/nodejsiojs-native-c-addons)
   (September 2015)
 

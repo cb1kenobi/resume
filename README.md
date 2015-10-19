@@ -9,10 +9,11 @@
 
 ## Introduction
 
-I'm a JavaScript guru and seasoned software engineer with a deep passion for
-programming. I have a strong background in web technologies, both client and
-server-side. I contribute to open source projects, build my own computers,
-and admin my own servers.
+Hello, my name is Chris and I'm a software architect with a specialty in
+JavaScript and a passion for developing open source software. I have over
+15 years of professional experience. Most of my background relates to web
+technologies, though I have a fair amount of experience with the cloud
+and hardware side.
 
 ## Technical Proficiencies
 
@@ -26,7 +27,7 @@ and admin my own servers.
 		- Web: Express.js 4, hogan.js, vhost, spdy, cluster
 		- Testing: Mocha, should.js
 		- Database: Sequelize, mariasql, redis
-		- Tooling: Gulp, Grunt, Babel, commander, optimist
+		- Tooling: Gulp, Babel, Grunt, commander, optimist
 		- C++ add-ons
 	- Browser-side
 		- Dojo Toolkit, Bootstrap, Require.js, Backbone.js, Underscore, jQuery, Polymer, React, Angular

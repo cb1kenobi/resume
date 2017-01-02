@@ -1,9 +1,8 @@
 # Chris Barber
 
-- E-mail: chris (at) ambientreality (dot) com
+- E-mail: chris (at) cb1inc (dot) com
 - GitHub: [https://github.com/cb1kenobi](https://github.com/cb1kenobi)
 - LinkedIn: [https://www.linkedin.com/in/cb1kenobi](https://www.linkedin.com/in/cb1kenobi)
-- Blog: [http://www.ambientreality.com/](http://www.ambientreality.com/)
 - Twitter: [https://twitter.com/cb1kenobi](https://twitter.com/cb1kenobi)
 - Location: Minneapolis, MN
 
@@ -79,11 +78,19 @@ and hardware side.
 
 ## Professional Experience
 
+### Principal Software Engineer 2
+
+#### Axway (Minneapolis, MN)
+
+January 2016 - Present
+
+* Super cool stuff
+
 ### Lead Software Engineer
 
 #### Appcelerator, Inc. (Mountain View, CA)
 
-June 2010 - Present
+June 2010 - January 2016
 
 * Developed the Titanium Mobile Command Line Interface (CLI) using Node.js
 * Key architect of the Titanium Mobile Web platform using the modern HTML5 and CSS3 APIs

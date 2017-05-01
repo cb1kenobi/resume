@@ -10,7 +10,7 @@
 
 Hello, my name is Chris and I'm a software architect with a specialty in
 JavaScript and a passion for developing open source software. I have over
-15 years of professional experience. Most of my background relates to web
+17 years of professional experience. Most of my background relates to web
 technologies, though I have a fair amount of experience with the cloud
 and hardware side.
 
@@ -21,21 +21,20 @@ and hardware side.
 	- Secondary: Python, ColdFusion
 
 * JavaScript
-	- ECMAScript 5, 6, and 7
+	- ECMAScript 5, ES2015, and ES2016
 	- Node.js/io.js
-		- Web: Express.js 4, hogan.js, vhost, spdy, cluster
-		- Testing: Mocha, should.js
+		- Web: Koa.js, Express.js 4, hogan.js, vhost, spdy, cluster
+		- Testing: Mocha, Chai, Sinon, should.js
 		- Database: Sequelize, mariasql, redis
 		- Tooling: Gulp, Babel, Grunt, commander, optimist
 		- C++ add-ons
 	- Browser-side
-		- Dojo Toolkit, Bootstrap, Require.js, Backbone.js, Underscore, jQuery, Polymer, React, Angular
+		- React.js, Redux, Dojo Toolkit, Bootstrap, Require.js, Backbone.js, Underscore, jQuery, Polymer, Angular
 	- Lead architect of the Titanium Mobile Web platform
 		- Custom AMD require() implementation
 		- Object-oriented JavaScript design using custom declare() mechanism
 		- Uses several HTML5 JS-based APIs
 	- Asynchronous patterns: async library, promises/deferreds, generators
-	- Built the Browser Feature Detector: [http://detect.ambientreality.com](http://detect.ambientreality.com)
 
 * Web Development
 	- HTML 5: semantic markup, video, WebSockets, web storage, geolocation, offline, web workers, web fonts, form elements, history
@@ -51,6 +50,7 @@ and hardware side.
 	- MariaDB, MySQL
 	- Microsoft SQL Server
 	- MongoDB, Riak, Cassandra
+	- Redis
 
 * Operating Systems
 	- Mac OS X, Linux (Ubuntu), Windows
